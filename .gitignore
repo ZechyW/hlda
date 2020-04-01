@@ -99,6 +99,9 @@ ENV/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
 .idea/dictionaries
+.idea/watcherTasks.xml
+.idea/other.xml
+.idea/inspectionProfiles/*.xml
 
 # Sensitive or high-churn files:
 .idea/**/dataSources/
